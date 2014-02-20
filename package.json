@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-sans-black",
+  "description": "The Source Sans black typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
